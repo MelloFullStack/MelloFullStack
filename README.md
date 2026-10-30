@@ -1,4 +1,4 @@
-# 💎 Kauê De Almeida Mello
+# Kauê De Almeida Mello
 
 **`Desenvolvedor Front-End`**
 
